@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "gh-pages": "^6.3.0",
-    "parcel": "^2.14.4"
+    "handlebars": "^4.7.8",
+    "parcel": "^2.14.4",
+    "parcel-plugin-handlebars-precompile": "^1.0.2"
   },
   "name": "food-list",
   "version": "1.0.0",

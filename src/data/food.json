@@ -1,0 +1,24 @@
+{
+    "food": [
+        {
+            "title": "pizza",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Pizza-3007395.jpg",
+            "price": "12$"
+        },
+        {
+            "title": "salad",
+            "image": "https://www.tasteofhome.com/wp-content/uploads/2025/02/Favorite-Mediterranean-Salad_EXPS_TOHcom25_41556_MD_P2_02_05_1b.jpg",
+            "price": "4$"
+        },
+        {
+            "title": "fries",
+            "image": "https://thesaltedpotato.com/wp-content/uploads/2022/04/twice-fried-fries.jpg",
+            "price": "6$"
+        },
+        {
+            "title": "sushi",
+            "image": "https://int.japanesetaste.com/cdn/shop/articles/how-to-make-makizushi-sushi-rolls-japanese-taste.jpg?v=1707914944&width=5760",
+            "price": "9$"
+        }
+    ]
+  }
