@@ -5,12 +5,16 @@
   "name": "food-list",
   "version": "1.0.0",
   "description": "",
-  "devDependencies": {},
+  "homepage": "https://markiianperliak.github.io/food-list/",
+  "devDependencies": {
+    "parcel-reporter-clean-dist": "^1.0.4"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel src/index.html",
     "build": "parcel build src/index.html --no-cache --public-url //food-list/",
-    "deploy": ""
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
   },
   "author": "",
   "license": "ISC"
